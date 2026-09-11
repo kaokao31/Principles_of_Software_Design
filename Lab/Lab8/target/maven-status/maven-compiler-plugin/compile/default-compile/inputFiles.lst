@@ -1,0 +1,14 @@
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\controller\ProductController.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\DemoApplication.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\model\Product.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\model\ProductDetail.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\model\Review.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\repository\ProductDetailRepository.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\repository\ProductRepository.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\repository\ReviewRepository.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\service\ProductService.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\strategy\DiscountContext.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\strategy\DiscountStrategy.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\strategy\MemberDiscountStrategy.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\strategy\NoDiscountStrategy.java
+C:\ThirdYearTerm1\Princ\Lab\Lab8\src\main\java\com\example\demo\strategy\SeasonalSaleStrategy.java
